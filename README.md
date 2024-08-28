@@ -1,0 +1,1 @@
+simply architecture build on e-commerce structure
